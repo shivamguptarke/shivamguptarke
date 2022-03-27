@@ -22,6 +22,14 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+ 💪 New Project [#5](https://github.com/shivamguptarke/builtinstudio) in [shivamguptarke/builtinstudio](https://github.com/shivamguptarke/builtinstudio)
+  
+  </details>
+
 <!---
 shivamguptarke/shivamguptarke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
