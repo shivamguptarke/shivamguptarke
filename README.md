@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Gupta
-- 👀 I’m interested in ...
+- 👀 I’m interested in working on new projects
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other project developers
 - 🥅 2022 Goals: Learn more about flutter
